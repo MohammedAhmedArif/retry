@@ -2,6 +2,6 @@
 
 int main() {
 
-std::cout <<"the journey begins.";
+std::cout <<"Hello, 21th century!";
 return 0;
 }
